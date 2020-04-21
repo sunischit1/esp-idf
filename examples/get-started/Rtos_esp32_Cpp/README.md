@@ -1,5 +1,6 @@
-# Blink Example
+# FreeRTOS using CPP
 
-Starts a FreeRTOS task to blink an LED
-
-See the README.md file in the upper level 'examples' directory for more information about examples.
+In this Project you will find these RTOS concept:
+1. Task Creation
+2. Semaphore
+3. Communication between thread
