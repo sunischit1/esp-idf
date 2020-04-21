@@ -1,5 +1,5 @@
-# Blink Example
+# Blink Example using CPP on ESP32
 
-Starts a FreeRTOS task to blink an LED
+This project give you a brief details related how you can use cpp on Esp32 IDF development enviornment.
 
 See the README.md file in the upper level 'examples' directory for more information about examples.
